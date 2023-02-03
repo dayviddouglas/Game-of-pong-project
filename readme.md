@@ -5,3 +5,10 @@
  ````
     Go to p5js.org website, and you will can open this files.
  ````
+<figure>
+    <img src="pong-game.png"
+         alt="Pong Photo" width="500" height="400"> 
+</figure>
+
+<p> Come have fun!! </p>
+    
